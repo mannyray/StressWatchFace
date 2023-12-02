@@ -1,0 +1,5 @@
+<fonts>
+    <font id="smallest_pixel_7" filename="smallest_pixel_7_font.fnt" filter="0123456789" />
+    <font id="pixeltiny" filename="pixeltiny.fnt" filter=" abcdefghijklmnopqrstuvwxyz0123456789s" />
+    <font id="mtba" filename="mtba-icons.fnt" filter="01235678:;@ABPQRSTUVWXY.?>" />
+</fonts>
